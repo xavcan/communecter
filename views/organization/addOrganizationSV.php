@@ -49,7 +49,7 @@ HtmlHelper::registerCssAndScriptsFiles($cssAnsScriptFilesModule, $this->module->
 			    <p>Si vous gérer une ou plusieurs organisations ou etes simplement membre d'une organization :
 			    <br/>vous êtes au bon endroit pour la valoriser, la diffuser, l'aider à la faire vivre.
 			    <br/>Vérifier l'existance de l'organisation en saisissant son nom ou son email dans le champs de recherche.</p>
-
+			    <br/>Tibor est il trop ! :)
 			</div>
 		</div>
 		<div class="panel-body">
