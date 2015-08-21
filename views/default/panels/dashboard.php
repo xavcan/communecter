@@ -14,7 +14,7 @@
             <div class="padding-20 core-content">
               <h3 class="title block no-margin text-pink">People</h3>
               <span class="subtitle">
-                Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper.
+                Qui fait Quoi ?  Parcourir le réseau ? C'est ici.
               </span>
             </div>
           </div>
