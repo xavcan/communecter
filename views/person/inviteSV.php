@@ -26,10 +26,12 @@
        		
         	<div class="panel-heading border-light">
         		<?php if( !@$isNotSV ){ ?>
-					<h1>Invite Someone</h1>
+					<h1>Invitez quelqu'un</h1>
 				<?php } ?>	
 			    <p> 
-			    Invite people to the network
+			    Ivitez vos proches !
+			    <br/>Vous êtes bien ici ? Agrandissez votre cercle, invitez quelqu'un ! 
+			    <br/>C'est ici que ça se passe.
 			    </p>
 			</div>
 			
