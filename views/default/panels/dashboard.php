@@ -14,7 +14,7 @@
             <div class="padding-20 core-content">
               <h3 class="title block no-margin text-pink">People</h3>
               <span class="subtitle">
-                Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper.
+                QuI fait Quoi ?  Parcourir le réseau ? C'est ici.
               </span>
             </div>
           </div>
@@ -40,7 +40,7 @@
             <div class="padding-20 core-content">
               <h3 class="title block no-margin text-green">Organizations</h3>
               <span class="subtitle">
-                Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper.
+                Voir les associations, les entreprises autour de moi ? L'univers des services et du mieux vivre. C'est ici.
               </span>
             </div>
           </div>
@@ -66,7 +66,7 @@
             <div class="padding-20 core-content">
               <h3 class="title block no-margin text-azure">Events</h3>
               <span class="subtitle">
-                Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper.
+                Il se passe toujours quelque chose... C'est bon à savoir (et à partager) et c'est ici.
               </span>
             </div>
           </div>
@@ -92,7 +92,7 @@
             <div class="padding-20 core-content">
               <h3 class="title block no-margin text-orange">Projects</h3>
               <span class="subtitle">
-                Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper.
+                Des projets à proposer, à partager ou pour y participer ? C'est ici.
               </span>
             </div>
           </div>
