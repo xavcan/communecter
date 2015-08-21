@@ -1,20 +1,20 @@
 <div class="box-4who box">
 
-	<h1><i class="fa fa-group"></i> FOR WHO</h1>
+	<h1><i class="fa fa-group"></i> FOR WHO/Pour Qui ?</h1>
 	<section>
-		For the people 
-		<br/> by the people 
+		Pour les hommes
+		<br/> pourr le bien de chacun
 	</section>
 	<h1><i class="fa fa-group"></i> BY WHO</h1>
 	<section>
 		Builders 
-		<br/> Architects
-		<br/> Thinkers
-		<br/> Artists
-		<br/> Connecters
-		<br/> Inventors
-		<br/> Travellers
-		<br/> Makers
+		<br/> Architects/Architectes
+		<br/> Thinkers/Philosophes (libres penseurs)
+		<br/> Artists/Artistes
+		<br/> Connecters/Passeurs
+		<br/> Inventors/Inventeurs
+		<br/> Travellers/Voyageurs
+		<br/> Makers/Constructeurs
 	</section>
 	<a href="#" onclick="showPanel('box-how','bggreen')" class="homestead nextBtns pull-right">HOW <i class="fa fa-arrow-circle-o-right"></i></a>
 	
