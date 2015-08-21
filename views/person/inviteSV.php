@@ -29,7 +29,9 @@
 					<h1>Invite Someone</h1>
 				<?php } ?>	
 			    <p> 
-			    Invite people to the network
+			    Invitez vos amis !
+			    <br>Vous êtes bien ici ? Agrandissez votre cercle, invitez quelqu'un ! 
+			    <br>C'est ici que ça se passe.
 			    </p>
 			</div>
 			
