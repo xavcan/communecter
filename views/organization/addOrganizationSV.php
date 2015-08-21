@@ -46,9 +46,9 @@ HtmlHelper::registerCssAndScriptsFiles($cssAnsScriptFilesModule, $this->module->
 				<?php if( !@$isNotSV ){ ?>
 					<h1>Référencer votre organization</h1>
 			    <?php } ?>
-			    <p>Si vous gérer une ou plusieurs organisations ou etes simplement membre d'une organization :
-			    <br/>vous êtes au bon endroit pour la valoriser, la diffuser, l'aider à la faire vivre.
-			    <br/>Vérifier l'existance de l'organisation en saisissant son nom ou son email dans le champs de recherche.</p>
+			    <p>Vous gérez une (ou plusieurs) organisations ?  Vous êtes simplement membre d'une organisation? 
+			    <br/>Vous êtes au bon endroit ! Vous allez pourvoir la valoriser, diffuser de l'information et tout simplement la faire vivre.
+			    <br/>Vérifiez si l'organisation est connue en saisissant son nom ou son e-mail dans le champs de recherche.</p>
 
 			</div>
 		</div>
